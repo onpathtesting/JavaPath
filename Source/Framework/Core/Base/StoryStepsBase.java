@@ -8,7 +8,6 @@ import org.jbehave.core.annotations.AfterStory;
 import org.jbehave.core.annotations.BeforeScenario;
 import org.jbehave.core.annotations.BeforeStory;
 import org.jbehave.core.annotations.ScenarioType;
-import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
 import Framework.Core.Log;
 
